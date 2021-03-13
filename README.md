@@ -1,1 +1,1 @@
-# device-emulator-release
+# device-emulator 升级专用
